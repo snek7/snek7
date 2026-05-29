@@ -30,6 +30,12 @@ Manufacturing | Agriculture | Waste Management | Pharmaceuticals | Oil & Gas | H
 
 LinkedIn: https://www.linkedin.com/in/snehalkasture7## Hi there 👋
 
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 <!--
 **snek7/snek7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
