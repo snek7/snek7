@@ -12,15 +12,15 @@ MBA Business Analytics Candidate at UMass Dartmouth with 6.8+ years of enterpris
 - Analytics & Reporting
 - AI & Automation
 - AWS Cloud Technologies
+## 📊 GitHub Activity
 
+![Snehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=snek7&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snek7&layout=compact&theme=tokyonight&hide_border=true)
 ## Featured Portfolio
 
 🚀 Enterprise AI & Business Systems Portfolio  
 🔗 https://github.com/snek7/Enterprise-AI-Business-Systems-Portfolio
-
-### Core Skills
-
-Salesforce | SAP S/4HANA | Business Analysis | SQL | Power BI | Tableau | Python | AWS | AI | Process Automation
 
 ### Industries
 
