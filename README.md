@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![AI ](https://img.shields.io/badge/AI-Artificial%20Intelligence-blue?style=for-the-badge&logo=openai&logoColor=white)
+!(https://img.shields.io/badge/AI-Artificial%20Intelligence-blue?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
